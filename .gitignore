@@ -1,0 +1,26 @@
+# 変換結果（ツイート本文・画像入り）
+out/
+
+# アーカイブ本体や取り込み用の中間ファイルを誤って置いたとき用
+*.zip
+*.tar
+*.dump
+tweets.jsonl
+media.txt
+progress.log
+errors.log
+tweet_media/
+profile_media/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# エディタ・OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

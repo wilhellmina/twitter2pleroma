@@ -1,0 +1,2 @@
+# スクリプトは Linux のコンテナ内でも動かすので LF に固定
+* text=auto eol=lf
